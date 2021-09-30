@@ -7,8 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'landing';
-  lati: number=40.7127753;
-  long: number=-74.0059728;
+  lati: number=15.5007;
+  long: number=32.5599;
   isEng: Boolean = true;
 
   changeLanguage(language){
